@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
-<p><b>Youtube: https://www.youtube.com/c/theeyeofcyberbuckeyesecurityofficial</p></b>
-   <p><b>linkedin: https://pk.linkedin.com/in/theeyeofcyber</p></b>
-   <p><b>Fb Group: https://www.facebook.com/groups/theeyeofcyberbuckeyesecurtiy/</p></b> 
+<p>Youtube: https://www.youtube.com/c/theeyeofcyberbuckeyesecurityofficial</p>
+<p>linkedin: https://pk.linkedin.com/in/theeyeofcyber</p>
+<p>Fb Group: https://www.facebook.com/groups/theeyeofcyberbuckeyesecurtiy/</p>
 <br />
