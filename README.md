@@ -10,6 +10,7 @@ A well-known bug bounty hunter, who managed to identify and fix security issues 
 - 👯 I’m looking to collaborate with other content creators<br/>
 - 🥅 2021 Goals: Contribute more to Open Source projects<br/>
 - ⚡ Fun fact: I love pentesting and bug hunting🐛<br/>
+
 [![TheEyeOfCyber github stats](https://github-readme-stats.vercel.app/api?username=TheEyeOfCyber&show_icons=true&theme=dark&repo=github-readme-stats)](https://github.com/TheEyeOfCyber)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEyeOfCyber&layout=compact)
