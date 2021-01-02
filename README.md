@@ -15,3 +15,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###  Hello, I am Humayun Ali Khan [THE EYE OF CYBER]👋
+<img src="https://github.com/TheEyeOfCyber/subdomaintakeoverWHO/blob/main/400149200649_17704.jpg" style="max-width:100%;">
+### ABOUT ME ☠
+<p><b>Humayun Ali Khan</b>, young Ethical Hacker who started hacking for fun since 2014. Penetration Tester, Security Consultant and Security Researcher whose qualifications include a CEH and a couple of certifications of appreciation from tech giants; detailed and practical knowledge of security & hacking tools, technologies and best practices in both offensive and defensive sides. Five Years (05) of experience in the information security industry. Had done many Security Assessments with professional companies.
+A well-known bug bounty hunter, who managed to identify and fix security issues concerning worldwide companies and agencies, some of them: Google, EC-Council, Microsoft, Intel, U.S Air Force, U.S Cyber Army, and more.
+</p>
+- 🔭 I just launched my first course!!<br/>
+- 🌱 I’m currently learning everything 🤣<br/>
+- 👯 I’m looking to collaborate with other content creators<br/>
+- 🥅 2021 Goals: Contribute more to Open Source projects<br/>
+- ⚡ Fun fact: I love pentesting and bug hunting🐛<br/>
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+### Connect with me:
+<p><b>Youtube: https://www.youtube.com/c/theeyeofcyberbuckeyesecurityofficial</p></b>
+   <p><b>linkedin: https://pk.linkedin.com/in/theeyeofcyber</p></b>
+   <p><b>Fb Group: https://www.facebook.com/groups/theeyeofcyberbuckeyesecurtiy/</p></b> 
+<br />
