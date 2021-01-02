@@ -1,5 +1,5 @@
 
-###  Hello, I am Humayun Ali Khan [THE EYE OF CYBER]👋
+### ▌│█║▌║▌𝒯𝒽𝑒𝐸𝓎𝑒☯𝒻𝒞𝓎𝒷𝑒𝓇║▌║▌║█│▌
 <img src="https://github.com/TheEyeOfCyber/TheEyeOfCyber/blob/main/20210102_221754.png" style="max-width:100%;">
 <h1>ABOUT ME</h1>
 <p><b>Humayun Ali Khan</b>, young Ethical Hacker who started hacking for fun since 2014. Penetration Tester, Security Consultant and Security Researcher whose qualifications include a CEH and a couple of certifications of appreciation from tech giants; detailed and practical knowledge of security & hacking tools, technologies and best practices in both offensive and defensive sides. Five Years (05) of experience in the information security industry. Had done many Security Assessments with professional companies.
