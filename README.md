@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ###  Hello, I am Humayun Ali Khan [THE EYE OF CYBER]👋
 <img src="https://github.com/TheEyeOfCyber/subdomaintakeoverWHO/blob/main/400149200649_17704.jpg" style="max-width:100%;">
-### ABOUT ME ☠
+<h1>ABOUT ME</h1>
 <p><b>Humayun Ali Khan</b>, young Ethical Hacker who started hacking for fun since 2014. Penetration Tester, Security Consultant and Security Researcher whose qualifications include a CEH and a couple of certifications of appreciation from tech giants; detailed and practical knowledge of security & hacking tools, technologies and best practices in both offensive and defensive sides. Five Years (05) of experience in the information security industry. Had done many Security Assessments with professional companies.
 A well-known bug bounty hunter, who managed to identify and fix security issues concerning worldwide companies and agencies, some of them: Google, EC-Council, Microsoft, Intel, U.S Air Force, U.S Cyber Army, and more.
 </p>
